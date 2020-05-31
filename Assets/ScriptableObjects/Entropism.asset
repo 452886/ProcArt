@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc03cd5619173714c88397f02983de03, type: 3}
+  m_Name: Entropism
+  m_EditorClassIdentifier: 
+  wallParts:
+  - {fileID: 923810715373312369, guid: 83838379185145e479999e8e281cf658, type: 3}
+  - {fileID: 987152888496040788, guid: 1ff0a7a832ef2984c8022bb7fe8c3321, type: 3}
+  - {fileID: 711572710526390750, guid: 6fbd6e83bc03eb34982328a711070ee8, type: 3}
+  - {fileID: 711572710526390750, guid: 6fbd6e83bc03eb34982328a711070ee8, type: 3}

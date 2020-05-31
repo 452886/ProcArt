@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc03cd5619173714c88397f02983de03, type: 3}
+  m_Name: MockupWall
+  m_EditorClassIdentifier: 
+  wallParts:
+  - {fileID: 3444184468576888471, guid: e91828b2f39400547837cf2505ca2a85, type: 3}
+  - {fileID: 8793469216363139959, guid: f9644b0d874deb54c94a3ab0d964149f, type: 3}
+  - {fileID: 8793469216363139959, guid: f9644b0d874deb54c94a3ab0d964149f, type: 3}
+  - {fileID: 8793469216363139959, guid: f9644b0d874deb54c94a3ab0d964149f, type: 3}
+  - {fileID: 4824860034318221627, guid: 9fb7f5565677be3409539da682af6b2f, type: 3}

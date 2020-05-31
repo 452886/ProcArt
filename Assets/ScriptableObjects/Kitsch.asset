@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cc03cd5619173714c88397f02983de03, type: 3}
+  m_Name: Kitsch
+  m_EditorClassIdentifier: 
+  wallParts:
+  - {fileID: 917293429967862773, guid: 5e1fcf8b86416fb4da54a50867579318, type: 3}
+  - {fileID: 917293429967862773, guid: 5e1fcf8b86416fb4da54a50867579318, type: 3}
+  - {fileID: 917293429967862773, guid: 5e1fcf8b86416fb4da54a50867579318, type: 3}
+  - {fileID: 6161189507754751374, guid: 274f6e02a4242d944b56723e1ca2aabf, type: 3}
+  - {fileID: 6161189507754751374, guid: 274f6e02a4242d944b56723e1ca2aabf, type: 3}
+  - {fileID: 6161189507754751374, guid: 274f6e02a4242d944b56723e1ca2aabf, type: 3}
